@@ -7,7 +7,7 @@ body{
 /* Card Flip CSS*/
 .flip-card {
     border-radius: 5vh;
-  }
+}
 
 .flip-card-1 {
 position: relative;
@@ -117,11 +117,6 @@ transform: rotateY(180deg);
 transform: rotateY(180deg);
 }
 
-#content{
-    background-image: linear-gradient(to bottom right, #083962, #4a4a4a
-    );
-}
-
 /* Font size/family/color adjustments*/
 
 span { 
@@ -130,67 +125,7 @@ justify-content: center;
 font: 6px;
 }
 
-.badge{
-    font-family: 'Press Start 2P', cursive;
-    font-size: xx-small;
-}
 
 i {
 font-size:xx-large;
-}
-
-h5{
-    font-family: 'Press Start 2P', cursive;
-}
-
-.normal {
-    color: rgb(117, 117, 117);
-}
-.fire {
-    color: rgb(238, 20, 20);
-}
-.water {
-    color: rgb(34, 31, 207);
-}
-.grass {
-    color: rgb(34, 194, 56);
-}
-.electric {
-    color: rgb(202, 200, 63);
-}
-.ice {
-    color: rgb(80, 220, 245);
-}
-.fighting {
-    color: rgb(143, 53, 37);
-}
-.poison {
-    color: rgb(150, 64, 150);
-}
-.ground {
-    color: rgba(218, 187, 85, 0.849);
-}
-.flying {
-    color: rgb(185, 128, 231);
-}
-.psychic {
-    color: rgb(255, 59, 180);
-}
-.bug {
-    color: rgb(119, 161, 42);
-}
-.rock {
-    color: rgb(122, 87, 9);
-}
-.ghost {
-    color: rgb(75, 27, 90);
-}
-.dark {
-    color: rgb(43, 40, 40);
-}
-.dragon {
-    color: rgb(139, 0, 182);
-}
-.steel {
-    color: rgb(195, 213, 223);
 }

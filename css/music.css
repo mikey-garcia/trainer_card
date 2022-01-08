@@ -1,0 +1,73 @@
+#content{
+    background-color: #161fa0;
+}
+h5{
+    font-family: 'Archivo Black', sans-serif;
+}
+.badge{
+    font-family: 'Roboto', sans-serif;
+    font-size: smaller;
+    color: #dadada;
+}
+.album-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    color: #db55ae;
+}
+.card{
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.card-lite{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+}
+
+.header-gradient{
+    color: #161fa0;
+    background-color: #FFD7EB;
+}
+
+.song{
+    border-radius: 5px;
+}
+
+.song-back{
+    border-radius: 5px; /* nice */
+    opacity: 30%;
+    z-index:0;
+}
+.song-back-text-0{
+    position: absolute;
+    top: 5%;
+    left: 10px;
+    z-index:1;
+}
+.song-back-text-1{
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    z-index:1;
+}
+.song-back-text-2{
+    position: absolute;
+    top: 70%;
+    left: 5px;
+    z-index:1;
+}
+.song-back-text-3{
+    position: absolute;
+    top: 90%;
+    left: 5px;
+    z-index:1;
+}
+
+
+
+.flip-card-back {
+    text-align: center;
+    position:relative;
+    background-color: transparent;
+    transform: rotateY(180deg);
+}    
