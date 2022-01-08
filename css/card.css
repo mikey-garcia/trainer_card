@@ -1,7 +1,9 @@
-/* No scrolling */
+/* No scrolling ? 
+
 body{
     overflow: hidden;
 }
+*/
 /* Card Flip CSS*/
 .flip-card {
     border-radius: 5vh;

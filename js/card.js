@@ -11,7 +11,9 @@ TODO:
 
 
 
-/* Get rid of scrolling for a nice 1 page feel*/
+/* Get rid of scrolling for a nice 1 page feel -> do this later when can guarantee no need to scroll
+
 var x=window.scrollX;
 var y=window.scrollY;
 window.onscroll=function(){window.scrollTo(x, y);};
+*/
